@@ -4,9 +4,9 @@ checkpoint 10800: 70w 项目通用语料，2个epoch。
 Checkpoint 15200: 10w med语料，约4.7个epoch。
 Checkpoint 16200: 10w med语料，约5.8个epoch。
 
-惩罚值：5
-min_token: 200
-max_token:256
+惩罚值：5，
+min_token: 200，
+max_token:256，
 temp: 0.1
 
 <table style="width:100%;">
